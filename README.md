@@ -8,7 +8,7 @@ Mass Spectrometry Imaging tool for Tissue Alignment, Labeling, and Export
 MATLAB 2023a (recommended; compatibility with earlier versions is not guaranteed)
 
 ## Installation
-1. Download the latest release from the [Releases page](./Releases).
+1. Download the latest release from the [Releases page](https://github.com/wkshao0801/MSI_Tale/releases/tag/v2.7.0).
 2. Open MATLAB and click to install.
 
 ## Usage
