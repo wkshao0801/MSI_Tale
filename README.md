@@ -12,7 +12,7 @@ MATLAB 2023a (recommended; compatibility with earlier versions is not guaranteed
 2. Open MATLAB and click to install.
 
 ## Usage
-1. For detailed instructions on using MSI Tale, please refer to the [User Guidelines](./User_guidelines.pdf). 
+1. For detailed instructions on using MSI Tale, please refer to the [User Guidelines](./User_guidelines%20(v2.6.0).pdf). 
 2. For a step-by-step tutorial, please refer to the instructional video: [YouTube](https://youtu.be/08Tsj9h0GM4). 
 3. Testing data can be found in [Example](./Example). 
 
